@@ -1,1 +1,2 @@
-Draft of my first file to check how GitHub oages works. 
+Draft of my first file to check how GitHub pages works.
+Added another sentence to say "Hello World".
